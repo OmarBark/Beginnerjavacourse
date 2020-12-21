@@ -23,7 +23,7 @@ public class Time{
         int rest2 = rest1%min;
         int amountOfSeconds = rest2;
         
-        System.out.println(amountOfDays + " Antalet dagar " + amountOfHours + " antalet timmar " + amountOfMinutes + " antalet minuter " + amountOfSeconds + " antalet sekunder ");
+        System.out.println(amountOfDays + " days " + amountOfHours + " hours " + amountOfMinutes + " minutes " + amountOfSeconds + " seconds ");
         
         
     }
